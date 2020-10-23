@@ -27,10 +27,6 @@ class Speech extends React.PureComponent {
     volume: 0.8,
   };
 
-  state = {
-    timeoutHandler: -1,
-  };
-
   synthesis = window.speechSynthesis;
 
   utterance = new SpeechSynthesisUtterance(this.props.text);
