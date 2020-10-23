@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/inspireme/static/css/main.172ee628.chunk.css",
-    "main.js": "/inspireme/static/js/main.1053b042.chunk.js",
-    "main.js.map": "/inspireme/static/js/main.1053b042.chunk.js.map",
+    "main.js": "/inspireme/static/js/main.1d98b517.chunk.js",
+    "main.js.map": "/inspireme/static/js/main.1d98b517.chunk.js.map",
     "runtime-main.js": "/inspireme/static/js/runtime-main.7cb0a8e8.js",
     "runtime-main.js.map": "/inspireme/static/js/runtime-main.7cb0a8e8.js.map",
     "static/css/2.2a86faee.chunk.css": "/inspireme/static/css/2.2a86faee.chunk.css",
     "static/js/2.8aba9353.chunk.js": "/inspireme/static/js/2.8aba9353.chunk.js",
     "static/js/2.8aba9353.chunk.js.map": "/inspireme/static/js/2.8aba9353.chunk.js.map",
     "index.html": "/inspireme/index.html",
-    "precache-manifest.d104eeebb5042042afceea8b9e2f03d2.js": "/inspireme/precache-manifest.d104eeebb5042042afceea8b9e2f03d2.js",
+    "precache-manifest.522ab8cf626fe70a00b3404c97841961.js": "/inspireme/precache-manifest.522ab8cf626fe70a00b3404c97841961.js",
     "service-worker.js": "/inspireme/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/inspireme/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.172ee628.chunk.css.map": "/inspireme/static/css/main.172ee628.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.8aba9353.chunk.js",
     "static/css/main.172ee628.chunk.css",
-    "static/js/main.1053b042.chunk.js"
+    "static/js/main.1d98b517.chunk.js"
   ]
 }
