@@ -1,0 +1,16 @@
+$font-size-header: 24px;
+
+$font-weight-bold: 700;
+
+.inspire-me__container {
+  text-align: center;
+
+  .inspire-me__header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: $font-size-header;
+    font-weight: $font-weight-bold;
+    margin-bottom: 12px;
+  }
+}
