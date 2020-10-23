@@ -15,9 +15,9 @@ const VoiceSelect = ({ voiceName, onChange }) => {
       setVoiceList(voices);
       setVoiceTotal(synthesis.getVoices().length);
     }
-  }, [synthesis.getVoices()]);
+  }, [synthesis.getVoices()]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  const onChangeHandler = React.useCallback((event) => onChange(event.target.value), []);
+  const onChangeHandler = React.useCallback((event) => onChange(event.target.value), [onChange]);
 
   return (
     <Form.Group controlId="exampleForm.ControlSelect1">
