@@ -6,8 +6,8 @@ import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import Speech from './components/Speech';
 import VoiceSelect from './components/VoiceSelect';
-import './App.scss';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.scss';
 
 const App = () => {
   const [text, setText] = React.useState('');
